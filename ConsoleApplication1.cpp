@@ -36,4 +36,6 @@ void myGuess() {
 int main() {
 	// Calling function in main for execution 
 	myGuess(); 
+	return 0; 
+
 }
